@@ -4,7 +4,7 @@
 
 Revali Reddy, as the team leader, project manager, and full-stack developer, has played a pivotal role in steering this innovative project.
 
-![Revali Reddy](link-to-image)
+![Revali Reddy](revali.jpg)
 - [CV](revali_cv.md)
 - [LinkedIn](link-to-linkedin)
 - **Email:** revalireddy1707@gmail.com
@@ -14,7 +14,7 @@ Revali Reddy, as the team leader, project manager, and full-stack developer, has
 
 Cuan Moodley, our talented front-end web developer, has crafted engaging user interfaces, ensuring a seamless experience for all users.
 
-![Cuan Moodley](link-to-image)
+![Cuan Moodley](cuan.jpg))
 - [CV](cuan_cv.md)
 - [LinkedIn](link-to-linkedin)
 - **Email:** cuan.moodley@example.com
@@ -24,7 +24,7 @@ Cuan Moodley, our talented front-end web developer, has crafted engaging user in
 
 Keagan Tomlinson, our brilliant backend developer and database administrator ensure the seamless operation of our platforms.
 
-![Keagan Tomlinson](link-to-image)
+![Keagan Tomlinson](keagan.jpg)
 - [CV](keagan_Tomlinson_CV.md)
 - [LinkedIn](https://www.linkedin.com/in/keagan-tomlinson-704812170/)
 - **Email:** keagantomlinson6@gmail.com
@@ -34,7 +34,7 @@ Keagan Tomlinson, our brilliant backend developer and database administrator ens
 
 Talia Chetty, the vice leader and front-end developer, collaborated on the mobile app front-end, ensuring a user-friendly experience.
 
-![Talia Chetty](link-to-image)
+![Talia Chetty](talia.jpg))
 - [CV](talia_cv.md)
 - [LinkedIn](link-to-linkedin)
 - **Email:** talia.chetty@example.com
@@ -44,7 +44,7 @@ Talia Chetty, the vice leader and front-end developer, collaborated on the mobil
 
 Sibusiso Zondo, our documentation manager, has meticulously captured our journey, ensuring clarity and transparency.
 
-![Sibusiso Zondo](link-to-image)
+![Sibusiso Zondo](sbu.jpg)
 - [CV](sibusiso_cv.md)
 - [LinkedIn](link-to-linkedin)
 - **Email:** sibusiso.zondo@example.com
