@@ -4,7 +4,8 @@
 
 Revali Reddy, as the team leader, project manager, and full-stack developer, has played a pivotal role in steering this innovative project.
 
-![Revali Reddy](revali.jpg)
+<img src="revali.jpg" width="200" />
+s
 - [CV](revali_cv.md)
 - [LinkedIn](link-to-linkedin)
 - **Email:** revalireddy1707@gmail.com
