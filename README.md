@@ -31,7 +31,7 @@ Keagan Tomlinson, our brilliant backend developer and database administrator ens
 - [CV](keagan_Tomlinson_CV.md)
 - [LinkedIn](https://www.linkedin.com/in/keagan-tomlinson-704812170/)
 - **Email:** keagantomlinson6@gmail.com
-- **Phone:** +1 (555) 234-5678
+- **Phone:** 079 490 3615
 
 ### Talia Chetty, Vice Leader and Front-end Developer
 
