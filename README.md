@@ -1,3 +1,9 @@
+## Website developed by Digitely
+http://sevahands.co.za.host-za.com/
+
+## Mobile app developed by Digitely
+https://play.google.com/store/apps/details?id=seva.sevahandsversionone
+
 ## Team Member Roles
 
 ### Revali Reddy, Team Leader and Project Manager
