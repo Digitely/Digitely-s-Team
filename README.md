@@ -46,9 +46,9 @@ Talia Chetty, the vice leader and front-end developer, collaborated on the mobil
 <img src="talia.jpg" width="200" />
 
 - [CV](talia_cv.md)
-- [LinkedIn](link-to-linkedin)
-- **Email:** talia.chetty@example.com
-- **Phone:** +1 (555) 876-5432
+- [LinkedIn](www.linkedin.com/in/talia-chetty-17433b21a)
+- **Email:** taliachetty64@gmail.com
+- **Phone:** 061 600 9455
 
 ### Sibusiso Zondo, Documentation Manager
 
