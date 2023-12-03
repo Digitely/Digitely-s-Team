@@ -26,7 +26,7 @@ Cuan Moodley, our talented front-end web developer, has crafted engaging user in
 - [CV](cuan_cv.md)
 - [LinkedIn](link-to-linkedin)
 - **Email:** cuanmoodley@gmail.com
-- **Phone:** 0662296289
+- **Phone:** 066 229 6289
 
 ### Keagan Tomlinson, Backend Developer and Database Administrator
 
